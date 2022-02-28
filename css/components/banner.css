@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(166deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 50%), url(../../images/voiture.jpeg);
+	color: rgb(240, 240, 240) ;
+	padding: 150px 0px;
+	background-size: cover;
+}
+
+
+.banner h1 {
+	font-size: 50px;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	margin-bottom: 45px;
+}
